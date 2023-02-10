@@ -1,6 +1,0 @@
-print("Hello world")
-print("friendship")
-print("eee")
-
-git rm Exercises set_1
-git commit -m "remove Exercises set_1"
